@@ -1,0 +1,66 @@
+{
+    "name": "Bookshare API",
+    "description": "Bookshare is an initiative of Benetech\u00ae, a nonprofit organization that combines the power of the human mind with a deep passion for social improvement. It addresses the needs of underserved communities with innovative technology solutions.    Bookshare...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3480-bookshare-api.jpg",
+    "tags": [
+        "api provider",
+        "books",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bookshare-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bookshare API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3480-bookshare-api.jpg",
+            "humanURL": "http:\/\/bookshare.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bookshare-api-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.bookshare.org\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/developer.bookshare.org\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/developer.bookshare.org\/blog\/feed-entries"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bookshare"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.bookshare.org\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bookshareapi"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Bookshare"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/bookshare.org\/"
+        }
+    ]
+}
